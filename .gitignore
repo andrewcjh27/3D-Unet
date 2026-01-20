@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Model checkpoints
+*.pth
+*.pth.tar
+checkpoints/
+saved_images/
+
+# Data
+*.nii
+*.nii.gz
+dummy_data/
+
+# macOS
+.DS_Store
+
+# Misc
+nohup.out
